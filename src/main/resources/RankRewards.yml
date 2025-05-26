@@ -1,0 +1,73 @@
+Ranks:
+  Bronze:
+    Commands:
+      - "give %player% minecraft:iron_ingot 5"
+      - "msg %player% &aYou achieved the Bronze rank!"
+      - "broadcast &e%player% has reached the Bronze rank!"
+    Messages:
+      Player:
+        - "&aCongratulations! You have achieved the &6Bronze &arank!"
+        - "&7Keep playing to climb higher!"
+      Broadcast:
+        - "&e%player% has reached the &6Bronze &erank!"
+        - "&7Let's cheer for them!"
+  Silver:
+    Commands:
+      - "give %player% minecraft:gold_ingot 5"
+      - "msg %player% &aYou achieved the Silver rank!"
+      - "broadcast &e%player% has reached the Silver rank!"
+    Messages:
+      Player:
+        - "&aCongratulations! You have achieved the &7Silver &arank!"
+        - "&7You're getting better!"
+      Broadcast:
+        - "&e%player% has reached the &7Silver &erank!"
+        - "&7They're on fire!"
+  Gold:
+    Commands:
+      - "give %player% minecraft:diamond 3"
+      - "msg %player% &aYou achieved the Gold rank!"
+      - "broadcast &e%player% has reached the Gold rank!"
+    Messages:
+      Player:
+        - "&aCongratulations! You have achieved the &6Gold &arank!"
+        - "&7You're shining bright!"
+      Broadcast:
+        - "&e%player% has reached the &6Gold &erank!"
+        - "&7A true champion in the making!"
+  Platinum:
+    Commands:
+      - "give %player% minecraft:emerald 5"
+      - "msg %player% &aYou achieved the Platinum rank!"
+      - "broadcast &e%player% has reached the Platinum rank!"
+    Messages:
+      Player:
+        - "&aCongratulations! You have achieved the &bPlatinum &arank!"
+        - "&7You're unstoppable!"
+      Broadcast:
+        - "&e%player% has reached the &bPlatinum &erank!"
+        - "&7Watch out, here comes a pro!"
+  Diamond:
+    Commands:
+      - "give %player% minecraft:netherite_ingot 2"
+      - "msg %player% &aYou achieved the Diamond rank!"
+      - "broadcast &e%player% has reached the Diamond rank!"
+    Messages:
+      Player:
+        - "&aCongratulations! You have achieved the &bDiamond &arank!"
+        - "&7You're among the best!"
+      Broadcast:
+        - "&e%player% has reached the &bDiamond &erank!"
+        - "&7A legend has been born!"
+  Champion:
+    Commands:
+      - "give %player% minecraft:enchanted_golden_apple 1"
+      - "msg %player% &aYou achieved the Champion rank!"
+      - "broadcast &e%player% has reached the Champion rank!"
+    Messages:
+      Player:
+        - "&aCongratulations! You have achieved the &cChampion &arank!"
+        - "&7You are the best of the best!"
+      Broadcast:
+        - "&e%player% has reached the &cChampion &erank!"
+        - "&7All hail the champion!"

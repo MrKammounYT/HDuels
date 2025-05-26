@@ -1,0 +1,6 @@
+Data:
+  host: 'localhost'
+  port: 3306
+  database: 'kammoun'
+  username: 'root'
+  password: ''

@@ -1,0 +1,166 @@
+Inventory:
+  name: "               ʀᴇᴡᴀʀᴅꜱ"
+  size: 36
+
+BRONZE:
+  ClaimItem:
+    slot: 20
+    material: BROWN_CANDLE
+    amount: 1
+    displayName: "&#d19f1a&lʙʀᴏɴᴢᴇ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#d19f1aꜱᴛᴀᴛᴜꜱ: ᴜɴʟᴏᴄᴋᴇᴅ"
+  AlreadyClaimed:
+    slot: 20
+    material: BROWN_CANDLE
+    amount: 1
+    displayName: "&#d19f1a&lʙʀᴏɴᴢᴇ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#d19f1aꜱᴛᴀᴛᴜꜱ: ᴄʟᴀɪᴍᴇᴅ"
+  CantClaimIt:
+    slot: 20
+    material: BROWN_CANDLE
+    amount: 1
+    displayName: "&#d19f1a&lʙʀᴏɴᴢᴇ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#d19f1aꜱᴛᴀᴛᴜꜱ: ʟᴏᴄᴋᴇᴅ"
+      - ""
+      - "&#d19f1a● ʀᴇᴀᴄʜ ʙʀᴏɴᴢᴇ ʀᴀɴᴋ"
+  Commands:
+    - "customelytra give %player% bronze"
+
+SILVER:
+  ClaimItem:
+    slot: 21
+    material: LIGHT_GRAY_CANDLE
+    amount: 1
+    displayName: "&#a0a8a8&lꜱɪʟᴠᴇʀ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#a0a8a8ꜱᴛᴀᴛᴜꜱ: ᴜɴʟᴏᴄᴋᴇᴅ"
+  AlreadyClaimed:
+    slot: 21
+    material: LIGHT_GRAY_CANDLE
+    amount: 1
+    displayName: "&#a0a8a8&lꜱɪʟᴠᴇʀ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#a0a8a8ꜱᴛᴀᴛᴜꜱ: ᴄʟᴀɪᴍᴇᴅ"
+  CantClaimIt:
+    slot: 21
+    material: LIGHT_GRAY_CANDLE
+    amount: 1
+    displayName: "&#a0a8a8&lꜱɪʟᴠᴇʀ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#a0a8a8ꜱᴛᴀᴛᴜꜱ: ʟᴏᴄᴋᴇᴅ"
+      - ""
+      - "&#a0a8a8● ʀᴇᴀᴄʜ ꜱɪʟᴠᴇʀ ʀᴀɴᴋ"
+  Commands:
+    - "customelytra give %player% silver"
+
+GOLD:
+  ClaimItem:
+    slot: 22
+    material: YELLOW_CANDLE
+    amount: 1
+    displayName: "&#efbf04&lɢᴏʟᴅ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#efbf04ꜱᴛᴀᴛᴜꜱ: ᴜɴʟᴏᴄᴋᴇᴅ"
+  AlreadyClaimed:
+    slot: 22
+    material: YELLOW_CANDLE
+    amount: 1
+    displayName: "&#efbf04&lɢᴏʟᴅ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#efbf04ꜱᴛᴀᴛᴜꜱ: ᴄʟᴀɪᴍᴇᴅ"
+  CantClaimIt:
+    slot: 22
+    material: YELLOW_CANDLE
+    amount: 1
+    displayName: "&#efbf04&lɢᴏʟᴅ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#efbf04ꜱᴛᴀᴛᴜꜱ: ʟᴏᴄᴋᴇᴅ"
+      - ""
+      - "&#efbf04● ʀᴇᴀᴄʜ ɢᴏʟᴅ ʀᴀɴᴋ"
+  Commands:
+    - "customelytra give %player% gold"
+
+PLATINUM:
+  ClaimItem:
+    slot: 23
+    material: CYAN_CANDLE
+    amount: 1
+    displayName: "&#1aa5b5&lᴘʟᴀᴛɪɴᴜᴍ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#1aa5b5ꜱᴛᴀᴛᴜꜱ: ᴜɴʟᴏᴄᴋᴇᴅ"
+  AlreadyClaimed:
+    slot: 23
+    material: CYAN_CANDLE
+    amount: 1
+    displayName: "&#1aa5b5&lᴘʟᴀᴛɪɴᴜᴍ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#1aa5b5ꜱᴛᴀᴛᴜꜱ: ᴄʟᴀɪᴍᴇᴅ"
+  CantClaimIt:
+    slot: 23
+    material: CYAN_CANDLE
+    amount: 1
+    displayName: "&#1aa5b5&lᴘʟᴀᴛɪɴᴜᴍ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#1aa5b5ꜱᴛᴀᴛᴜꜱ: ʟᴏᴄᴋᴇᴅ"
+      - ""
+      - "&#1aa5b5● ʀᴇᴀᴄʜ ᴘʟᴀᴛɪɴᴜᴍ ʀᴀɴᴋ"
+  Commands:
+    - "customelytra give %player% platinum"
+
+DIAMOND:
+  ClaimItem:
+    slot: 24
+    material: LIGHT_BLUE_CANDLE
+    amount: 1
+    displayName: "&#00ffff&lᴅɪᴀᴍᴏɴᴅ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#00ffffꜱᴛᴀᴛᴜꜱ: ᴜɴʟᴏᴄᴋᴇᴅ"
+  AlreadyClaimed:
+    slot: 24
+    material: LIGHT_BLUE_CANDLE
+    amount: 1
+    displayName: "&#2ecfe1&lᴅɪᴀᴍᴏɴᴅ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#2ecfe1ꜱᴛᴀᴛᴜꜱ: ᴄʟᴀɪᴍᴇᴅ"
+  CantClaimIt:
+    slot: 24
+    material: LIGHT_BLUE_CANDLE
+    amount: 1
+    displayName: "&#2ecfe1&lᴅɪᴀᴍᴏɴᴅ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#2ecfe1ꜱᴛᴀᴛᴜꜱ: ʟᴏᴄᴋᴇᴅ"
+      - ""
+      - "&#2ecfe1● ʀᴇᴀᴄʜ ᴅɪᴀᴍᴏɴᴅ ʀᴀɴᴋ"
+  Commands:
+    - "customelytra give %player% diamond"
+
+
+CHAMPION:
+  ClaimItem:
+    slot: 13
+    material: RED_CANDLE
+    amount: 1
+    displayName: "&#ff0000&l&#ff0000&lᴄʜᴀᴍᴘɪᴏɴ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#ff0000ꜱᴛᴀᴛᴜꜱ: ᴜɴʟᴏᴄᴋᴇᴅ"
+  AlreadyClaimed:
+    slot: 13
+    material: RED_CANDLE
+    amount: 1
+    displayName: "&#ff0000&l&#ff0000&lᴄʜᴀᴍᴘɪᴏɴ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#ff0000ꜱᴛᴀᴛᴜꜱ: ᴄʟᴀɪᴍᴇᴅ"
+  CantClaimIt:
+    slot: 13
+    material: RED_CANDLE
+    amount: 1
+    displayName: "&#ff0000&lᴄʜᴀᴍᴘɪᴏɴ ʀᴇᴡᴀʀᴅ"
+    lore:
+      - "&#ff0000ꜱᴛᴀᴛᴜꜱ: ʟᴏᴄᴋᴇᴅ"
+      - ""
+      - "&#ff0000● ʀᴇᴀᴄʜ ᴄʜᴀᴍᴘɪᴏɴ ʀᴀɴᴋ"
+  Commands:
+    - "customelytra give %player% champion"

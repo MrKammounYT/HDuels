@@ -1,0 +1,12 @@
+name: HDuels
+version: '1.0.0'
+main: com.kammoun.HDuels.Main
+api-version: '1.21'
+depend: [NoteBlockAPI,PlaceholderAPI]
+commands:
+  hduel:
+    description: ''
+  duel:
+  leave:
+  collect:
+

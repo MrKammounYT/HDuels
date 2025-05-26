@@ -1,0 +1,75 @@
+Inventory:
+  name: "             ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ"
+  size: 36
+  Items:
+    Win:
+      slot: 11
+      material: LIME_CANDLE
+      amount: 1
+      displayName: "&#56df22ᴡɪɴꜱ"
+      lore:
+        - "&e→ %hduel_player_wins% ←"
+
+    Losses:
+      slot: 15
+      material: RED_CANDLE
+      amount: 1
+      displayName: "&#ff0000Losses"
+      lore:
+        - "&e→ %hduel_player_losses% ←"
+
+    Kills:
+      slot: 13
+      material: NETHERITE_SWORD
+      amount: 1
+      displayName: "&#ff0000ᴋɪʟʟꜱ"
+      lore:
+        - "&e→ %hduel_player_kills% ←"
+
+    Deaths:
+      slot: 14
+      material: SKELETON_SKULL
+      amount: 1
+      displayName: "&#878686ᴅᴇᴀᴛʜꜱ"
+      lore:
+        - "&e→ %hduel_player_deaths% ←"
+
+    GamesPlayed:
+      slot: 22
+      material: PAPER
+      amount: 1
+      displayName: "&#17fc00ɢᴀᴍᴇꜱ ᴘʟᴀʏᴇᴅ"
+      lore:
+        - "&e→ %hduel_player_games_played% ←"
+
+    WinRate:
+      slot: 21
+      material: BELL
+      amount: 1
+      displayName: "&#FFD700Win Rate"
+      lore:
+        - "&e→ %hduel_player_win_rate%% ←"
+
+    Rank:
+      slot: 4
+      material: RECOVERY_COMPASS
+      amount: 1
+      displayName: "&#0ccfc0ʀᴀɴᴋ"
+      lore:
+        - "%hduel_player_rank%"
+
+    KD:
+      slot: 23
+      material: CROSSBOW
+      amount: 1
+      displayName: "&#C0C0C0ᴋ/ᴅ ʀᴀᴛɪᴏ"
+      lore:
+        - "&e→ %hduel_player_kd% ←"
+
+    Points:
+      slot: 12
+      material: GOLD_INGOT
+      amount: 1
+      displayName: "&eʟᴘ"
+      lore:
+        - "&e→ %hduel_player_points% ←"

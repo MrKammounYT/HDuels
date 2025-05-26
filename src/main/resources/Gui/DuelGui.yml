@@ -1,0 +1,39 @@
+Inventory:
+  name: "             ᴅᴜᴇʟꜱ ᴍᴇɴᴜ"
+  size: 27
+  Items:
+    LeaveQueue:
+      slot: 13
+      material: RED_DYE
+      amount: 1
+      displayName: "&#FF0000Leave Queue"
+      lore:
+        - "&7Click to leave the queue"
+    JoinQueue:
+      slot: 13
+      material: CLOCK
+      amount: 1
+      displayName: "&#00FF00Join Queue"
+      lore:
+        - "&7Click to join the queue"
+    Close:
+      slot: 31
+      material: BARRIER
+      amount: 1
+      displayName: "&#FF0000Close"
+      lore:
+        - "&7Click to close the menu"
+    Stats:
+      slot: 15
+      material: KNOWLEDGE_BOOK
+      amount: 1
+      displayName: "&#bd00ffStats"
+      lore:
+        - "&7Click to view your stats"
+    Rewards:
+      slot: 11
+      material: Chest
+      amount: 1
+      displayName: "&#cf910cRewards"
+      lore:
+        - "&7Click to view rewards"
